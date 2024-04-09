@@ -1,2 +1,2 @@
 # Connect4AIInPython
-Reinforcement Learning AI that beats Connect 4. Works with evaluation functions, threads, and Monte Carlo Tree Search.
+Connect 4 AI that uses the minimax algorithm with alpha-beta pruning to play Connect 4.
